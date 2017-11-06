@@ -1,0 +1,28 @@
+{
+  "name": "CatGif",
+  "version": "1.0.0",
+  "description": "\"# CatGifs\"",
+  "main": "CatGif.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dldugan14/CatGifs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dldugan14/CatGifs/issues"
+  },
+  "homepage": "https://github.com/dldugan14/CatGifs#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.7",
+    "style-loader": "^0.19.0"
+  }
+}
